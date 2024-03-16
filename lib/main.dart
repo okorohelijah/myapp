@@ -1,8 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/bottomNavigationBar.dart';
-import 'package:myapp/homePage.dart';
-import 'package:myapp/loginPage.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:myapp/signUpPage.dart';
 
 
